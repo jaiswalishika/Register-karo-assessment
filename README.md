@@ -1,8 +1,15 @@
-# React + Vite
+A clone of RegisterKaro Homepage Live Link
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Page Speed Insights - (These might vary with different tools)
+*Desktop : image
 
-Currently, two official plugins are available:
+*Mobile : image
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tech Stack
+Language: JavaScript
+Library: React.js
+UI Components: Tailwind CSS
+Hosting: Vercel
+Prerequisites
+Node.js (v18 or higher)
+npm
