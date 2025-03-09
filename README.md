@@ -22,12 +22,3 @@ Follow these steps to set up the project locally:
    git clone https://github.com/jaiswalishika/Register-karo-assessment.git
 
 
-## Screenshots
-
-Here are some screenshots of the project:
-
-### Screenshot 1
-![Screenshot 1](public/images/ss1.png)
-
-### Screenshot 2
-![Screenshot 2](public/images/ss.png)
